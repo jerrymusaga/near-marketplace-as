@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME || "${marketplace.musags.testnet}";
+const CONTRACT_NAME = process.env.CONTRACT_NAME || 'marketplace.musags.testnet';
 
 function environment(env) {
     switch (env) {

@@ -15,4 +15,5 @@ window.nearInitPromise = initializeContract()
   })
   .catch(console.error);
 
+
 reportWebVitals();
